@@ -1,4 +1,4 @@
-<h5>Hi, I'm Jonte, a second year computer science student with a passion for technology, I am eager to continue learning and gaining practical experience in the field. I am grateful to have received two scholarships, Gowaitaha and Hiranga, both valued at $5000. I have also had the opportunity to work as a quality intern for 8 weeks, where I assisted in migrating data to a new system and built an interactive project timeline. Additionally, I have had the chance to communicate with suppliers and teach team members technology skills. I am excited to continue growing my skills and making meaningful contributions in the tech industry.
+<h5>Hi, I'm Jonte, a computer science student with a passion for technology, I am eager to continue learning and gaining practical experience in the field. I am grateful to have received two scholarships, Go Waitaha Canterbury Scholarship and UC Hiranga Scholarship. I have also had the opportunity to work at J H Whittaker & Sons as a quality intern for 8 weeks, where I was able to build up many important skills. I am excited to continue growing my skills and making meaningful contributions in the IT industry.
 
 </h5>
 

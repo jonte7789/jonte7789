@@ -9,6 +9,8 @@ PUT HERE once i have made projects in school
 
 <h2> Experience:</h2>
 Work at whittakers -> link to git hub repository where talk about experience 
+created system which allowed 
+
 work at paknsave
 
 

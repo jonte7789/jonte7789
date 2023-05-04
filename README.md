@@ -8,31 +8,9 @@ PUT HERE once i have made projects in school
 
 
 <h2> Experience:</h2>
-Work at whittakers -> link to git hub repository where talk about experience 
-created system which allowed 
+<h5>J H Whittaker & Sons | Quality Intern | University Holidays 2022 <h5>
+<h5> PAK'nSAVE Kapiti | Supermarket Assistant | 2020 - 2022 during college studies <h5>
 
-work at paknsave
+<h2> University Assigments and quizzes </h2>
 
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="Jonte Auden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: enter link
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> test <p>

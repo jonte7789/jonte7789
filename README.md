@@ -4,7 +4,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-PUT HERE once i have made projects in school 
+Java Game Project
 
 
 <h2> Experience:</h2>

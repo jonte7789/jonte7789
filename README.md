@@ -2,15 +2,13 @@
 
 </h5>
 
-<h2>👨‍💻Projects:</h2>
+<h2>Projects: </h2>
 
 Java Game Project
 
 
 <h2> Experience:</h2>
-<h5>J H Whittaker & Sons | Quality Intern | University Holidays 2022 <h5>
-<h5> PAK'nSAVE Kapiti | Supermarket Assistant | 2020 - 2022 during college studies <h5>
+<h4>J H Whittaker & Sons | Quality Intern | University Holidays 2022 </h4>
+<h4> PAK'nSAVE Kapiti | Supermarket Assistant | 2020 - 2022 during college studies </h4>
 
-<h2> University Assigments and quizzes </h2>
 
-<p> test <p>

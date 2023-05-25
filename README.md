@@ -4,7 +4,7 @@
 
 <h2>Projects: </h2>
 
-- [Java Polo Game](https://github.com/vuejs/vue)
+- [Java Polo Game](https://github.com/jonte7789/JavaPoloGame)
 
 
 <h2> Experience:</h2>
